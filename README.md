@@ -1,4 +1,4 @@
-![Unit Testing Workflow](https://github.com/alexanderctrl/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![CI Workflow](https://github.com/alexanderctrl/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
